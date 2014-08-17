@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lorelei</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_clear">Clear</string>
+    <string name="execute">Exec</string>
+    <string name="action_about">About</string>
+
+</resources>
